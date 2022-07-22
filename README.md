@@ -28,13 +28,13 @@
 | My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
 |  Portofolio            |  In progress             |              |        |        |
 
-<h3>Actually working on</h3>
-- [X] Learning <span><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></span>
-- [ ] Learning  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-- [ ] Learning <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<h3>🌱 I’m currently learning ...</h3>
+- [X] <span><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></span>
+- [ ] <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+- [ ] <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 - [ ] And so on...
 
-<h3>Contact</h3>
+<h3>📫 How to reach me:</h3>
 <a href='https://www.linkedin.com/in/yassineayoub/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 <a href='https://twitter.com/Yass_inDev'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
 <a href='mailto:y.ayoubwd@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
