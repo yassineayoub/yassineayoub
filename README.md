@@ -22,9 +22,11 @@
 <!--   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> -->
 </p>
 <h3>Projets on line</h3>
-| Project Name      | Description | Link     |
-| :---        |    :----:   |          ---: |
-| My Plomberie JS | Application pour dimensionner un réseau sanitaire en maison individuelle  | <a href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a> |
+
+| `Project Name`    | `Description` | `Techno`     | `Link` | `Repo` |
+|-------------------|---------------|--------------|--------|--------|
+| My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle | JavaScript   | <a href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
+|                   |               |              |        |        |
 <!-- <h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineayoub&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=yassineayoub&theme=blue-green" /> -->
