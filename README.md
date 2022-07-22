@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  <strong>Hello, I'm Yassine,</strong> web developer and blogger from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <strong>near Montpellier, France</strong>
+  <strong>Hello, I'm Yassine,</strong> web developer and blogger from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <strong>near Montpellier, France</strong>
 </p>
 <!--
 **yassineayoub/yassineayoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
