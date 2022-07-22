@@ -29,10 +29,14 @@
 |  Portofolio            |  In progress             |              |        |        |
 
 <h3>🌱 I’m currently learning ...</h3>
+
 - [X] React
 - [ ] Redux
 - [ ] NodeJS
 - [ ] And so on...
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
 
 <h3>📫 How to reach me:</h3>
 <a href='https://www.linkedin.com/in/yassineayoub/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
