@@ -29,7 +29,7 @@
 |  Portofolio            |  In progress             |              |        |        |
 
 <h3>Actually working on</h3>
-- [X] Learning <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+- [X] Learning <span><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></span>
 - [ ] Learning  <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 - [ ] Learning <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 - [ ] And so on...
