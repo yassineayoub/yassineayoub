@@ -27,6 +27,13 @@
 |-------------------|---------------|--------------|--------|--------|
 | My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
 |  Portofolio            |  In progress             |              |        |        |
+
+<h3>Contact</h3>
+<a href='https://www.linkedin.com/in/yassineayoub/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+<a href='https://twitter.com/Yass_inDev'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
+<a href='mail:y.ayoubwd@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+
+
 <!-- <h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassineayoub&theme=blue-green" />
 <img src="https://github-readme-stats.vercel.app/api?username=yassineayoub&theme=blue-green" /> -->
