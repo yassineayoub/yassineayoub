@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  <strong>Hello, I'm Yassine,</strong> web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <strong>near Montpellier, France</strong> <br />
+  <strong>Hello, I'm Yassine,</strong> web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <strong>near Montpellier</strong> <br />
   I'm actually studying at O'Clock school
 </p>
 <!--
