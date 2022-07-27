@@ -26,7 +26,7 @@
 
 | `Project Name`    | `Description` | `Techno`     | `Link` | `Repo` |
 |-------------------|---------------|--------------|--------|--------|
-| My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle (not working on iOS / Safari) | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
+| My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle (not working on iOS / Safari) - 1er projet réalisé en full JS Vanilla | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
 |  My Plomberie React |  In progress             |     React         |        |        |
 |  Portofolio            |  In progress             |              |        |        |
 
