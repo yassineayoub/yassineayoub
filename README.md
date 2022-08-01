@@ -1,7 +1,7 @@
 <h3> Hi there 👋 </h3>
 <p>
   <strong>Hello, I'm Yassine,</strong> web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <strong>Le BOSC near Montpellier</strong> <br />
-  I'm actually studying at O'Clock school and i'm looking for a job in September.(Full stack JS / React developer or PHP )
+  I'm actually studying at O'Clock school.
   If you want to know more about me do not hesitate to contact me.
 </p>
 <h3>Various techs I use</h3>
