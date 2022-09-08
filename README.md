@@ -26,6 +26,7 @@
 
 | `Project Name`    | `Description` | `Techno`     | `Link` | `Repo` |
 |-------------------|---------------|--------------|--------|--------|
+|  Musclay-website           |  Application de musculation qui permet à nos utilisateurs de créer et personnaliser leur propre entrainement de musculation ainsi que de suivre leur progression. Projet réalisé en fin de formation .             |    Laravel / React JS         |  https://musclay.web.app/      |        |
 |  My Plomberie React |  Application pour dimensionner un réseau sanitaire en maison individuelle développé avec React. |     React         |  <a target="_blank" href="https://myplomberie-ayoub.web.app/">Visiter</a>      |        |
 | My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle (not working on iOS / Safari) - 1er projet réalisé en full JS Vanilla à mes débuts en programmation | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
 |  Portofolio            |  In progress             |              |        |        |
