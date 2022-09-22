@@ -1,7 +1,6 @@
 <h3> Hi there 👋 </h3>
 <p>
   <strong>Hello, I'm Yassine,</strong> web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <strong>Le BOSC near Montpellier</strong> <br />
-  I'm actually studying at O'Clock school.
   If you want to know more about me do not hesitate to contact me.
 </p>
 <h3>Various techs I use</h3>
@@ -29,6 +28,7 @@
 |  Portfolio            |  Mon porfolio         |              |  https://ayoub-yassine.web.app/      |        |
 |  Musclay-website           |  Application de musculation qui permet à nos utilisateurs de créer et personnaliser leur propre entrainement de musculation ainsi que de suivre leur progression. Projet réalisé en fin de formation .             |    Laravel / React JS         |  https://musclay.web.app/      |        |
 |  My Plomberie React |  Application pour dimensionner un réseau sanitaire en maison individuelle développé avec React. |     React         |  <a target="_blank" href="https://myplomberie-ayoub.web.app/">Visiter</a>      |        |
+|  My Plomberie React Native            |  Application mobile       |     React Native         |      |  https://github.com/yassineayoub/ReactNative-MyPlomberie      |
 | My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle (not working on iOS / Safari) - 1er projet réalisé en full JS Vanilla à mes débuts en programmation | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
 
 
@@ -37,7 +37,7 @@
 
 - [X] <img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 - [X] <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-- [ ] <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+- [ ] <img alt="ReactNative" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 - [ ] And so on...
 
 <h3>📫 How to reach me:</h3>
