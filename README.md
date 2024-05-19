@@ -12,7 +12,7 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 
 ## 🌐 Connectez-vous avec moi
 
-- [LinkedIn](https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/yassineayoub/)
+- [LinkedIn](https://www.linkedin.com/in/yassineayoub/)
 - [Email](mailto:y.ayoubwd@gmail.com)
 
 ## 📂 Projets récents
@@ -27,6 +27,11 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 - Technologies utilisées : Laravel - TailwindCss - MaterialUI - React  - Redux
 - Points traités : Cahier des charges - Modélisation de la base de données (MCD MLD) - Maquetage de l'application - Intégration HTML/CSS - Authentification - Securité - JWT ...
 - A noté : Seul la partie front-end est disponible ( le back-end a été desactivé pour des raisons de coût )
+
+### [My Plomberie](https://myplomberie-ayoub.web.app/)
+- Application pour dimensionner un réseau d'eau sanitaire en maison individuelle.
+- Technologies utilisées : Laravel - TailwindCss - MaterialUI - React  - Redux
+- A noté : En tant qu'ancien technicien bureau d'étude en génie climatique, j'ai créé cette utilitaire afin de faciliter le dimensionnement des tuyauteries de plomberie aux novices
   
 ### [Questionnaire FFTir](https://github.com/yassineayoub/questionnary_shooting)
 - Questionnaire pour l'obtention de l'examen thérorique de tir sportif
@@ -44,11 +49,7 @@ Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collabor
 | `Project Name`    | `Description` | `Techno`     | `Link` | `Repo` |
 |-------------------|---------------|--------------|--------|--------|
 |  Portfolio            |  Mon porfolio         |              |  https://ayoub-yassine.web.app/      |        |
-|  Ellemcreer.fr            | Création d'un site vitrine pour une boutique d'articles personnalisés        |   PHP  - Symfony - Twig - TailwindCss           |  <a target="_blank" href="https://ellemcreer.fr">Visiter</a>       |        |
-|  Questionnaire liscence de tir sportif            |  Questionnaire pour l'obtention de l'examen thérorique de tir sportif        |  Next.js - React - TailwindCss            |     -   | <a target="_blank" href="https://github.com/yassineayoub/questionnary_shooting">Voir le Repo</a>       |
-|  Musclay-website           |  Application de musculation qui permet à nos utilisateurs de créer et personnaliser leur propre entrainement de musculation ainsi que de suivre leur progression. Projet réalisé en fin de formation .             |    Laravel / React JS         |  https://musclay.web.app/      |        |
-|  My Plomberie React |  Application pour dimensionner un réseau sanitaire en maison individuelle développé avec React. |     React         |  <a target="_blank" href="https://myplomberie-ayoub.web.app/">Visiter</a>      |        |
-|  My Plomberie React Native            |  Application mobile       |     React Native         |      |  <a target="_blank" href="https://github.com/yassineayoub/ReactNative-MyPlomberie">Repo</a>      |
+|  My Plomberie React Native            | Portage de l'application web en une application mobile      |     React Native         |      |  <a target="_blank" href="https://github.com/yassineayoub/ReactNative-MyPlomberie">Repo</a>      |
 | My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle (not working on iOS / Safari) - 1er projet réalisé en full JS Vanilla à mes débuts en programmation | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
 
 
