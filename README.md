@@ -22,13 +22,13 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 - Technologies utilisées : PHP Symfony - TailwindCss - Templating Twig
 - Points traités : Cahier des charges - Modélisation de la base de données (MCD MLD) - Maquetage de l'application - Intégration HTML/CSS - Authentification - Securité - SEO ect..
 
-### [Musclay](https://github.com/votre-utilisateur/projet-2](https://musclay.web.app/)
+### [Musclay](https://musclay.web.app/)
 - Application de musculation qui permet à nos utilisateurs de créer et personnaliser leur propre entrainement de musculation ainsi que de suivre leur progression.
 - Technologies utilisées : Laravel - TailwindCss - MaterialUI - React  - Redux
 - Points traités : Cahier des charges - Modélisation de la base de données (MCD MLD) - Maquetage de l'application - Intégration HTML/CSS - Authentification - Securité - JWT ...
 - A noté : Seul la partie front-end est disponible ( le back-end a été desactivé pour des raisons de coût )
   
-### [Questionnaire FFTir](https://github.com/votre-utilisateur/projet-3](https://github.com/yassineayoub/questionnary_shooting)
+### [Questionnaire FFTir](https://github.com/yassineayoub/questionnary_shooting)
 - Questionnaire pour l'obtention de l'examen thérorique de tir sportif
 - Technologies utilisées : TailwindCss - NextJS 
 - A noté : Disponible via ce <a href="https://github.com/yassineayoub/questionnary_shooting">repository</a>
