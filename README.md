@@ -10,6 +10,10 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 - **Bases de données :** [MySQL]
 - **Autres :** [Agile/Scrum]
 
+## 📄 Mon CV
+
+- <a target="_blank" href="https://github.com/yassineayoub/yassineayoub/blob/main/CV_Yassine_AYOUB_19052024.pdf" >Voir mon cv  </a>
+ 
 ## 🌐 Connectez-vous avec moi
 
 - [LinkedIn](https://www.linkedin.com/in/yassineayoub/)
@@ -36,11 +40,11 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 ### [Questionnaire FFTir](https://github.com/yassineayoub/questionnary_shooting)
 - Questionnaire pour l'obtention de l'examen thérorique de tir sportif
 - Technologies utilisées : TailwindCss - NextJS 
-- A noté : Disponible via ce <a href="https://github.com/yassineayoub/questionnary_shooting">repository</a>
+- A noté : Disponible via ce <a target="_blank" href="https://github.com/yassineayoub/questionnary_shooting">repository</a>
 
 ## 🏆 Récompenses et certifications
 
-- **Certification 1 :**  <a href="https://www.codingame.com/certification/gWF-MthT-qBZkjtJzT36Ng">CodeinGame <a/>
+- **Certification 1 :**  <a target="_blank" href="https://www.codingame.com/certification/gWF-MthT-qBZkjtJzT36Ng">CodeinGame <a/>
 
 Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collaboration ou juste pour discuter de technologie. 🚀
 
