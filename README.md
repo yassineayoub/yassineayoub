@@ -26,6 +26,7 @@
 | `Project Name`    | `Description` | `Techno`     | `Link` | `Repo` |
 |-------------------|---------------|--------------|--------|--------|
 |  Portfolio            |  Mon porfolio         |              |  https://ayoub-yassine.web.app/      |        |
+|  Questionnaire liscence de tir sportif            |  Questionnaire pour l'obtention de l'examen thérorique de tir sportif        |  Next.js - React - TailwindCss            |     -   | <a target="_blank" href="https://github.com/yassineayoub/questionnary_shooting">Voir le Repo</a>       |
 |  Musclay-website           |  Application de musculation qui permet à nos utilisateurs de créer et personnaliser leur propre entrainement de musculation ainsi que de suivre leur progression. Projet réalisé en fin de formation .             |    Laravel / React JS         |  https://musclay.web.app/      |        |
 |  My Plomberie React |  Application pour dimensionner un réseau sanitaire en maison individuelle développé avec React. |     React         |  <a target="_blank" href="https://myplomberie-ayoub.web.app/">Visiter</a>      |        |
 |  My Plomberie React Native            |  Application mobile       |     React Native         |      |  <a target="_blank" href="https://github.com/yassineayoub/ReactNative-MyPlomberie">Repo</a>      |
