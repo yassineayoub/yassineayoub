@@ -54,7 +54,6 @@ Merci de visiter mon profil ! N'hésitez pas à me contacter pour toute collabor
 
 | `Project Name`    | `Description` | `Techno`     | `Link` | `Repo` |
 |-------------------|---------------|--------------|--------|--------|
-|  Portfolio            |  Mon porfolio         |              |  https://ayoub-yassine.web.app/      |        |
 |  My Plomberie React Native            | Portage de l'application web en une application mobile      |     React Native         |      |  <a target="_blank" href="https://github.com/yassineayoub/ReactNative-MyPlomberie">Repo</a>      |
 | My Plomberie JS   | Application pour dimensionner un réseau sanitaire en maison individuelle (not working on iOS / Safari) - 1er projet réalisé en full JS Vanilla à mes débuts en programmation | JavaScript   | <a target="_blank" href="https://yassineayoub.github.io/MyPlomberieJS/">Visiter</a>| <a target="_blank" href="https://github.com/yassineayoub/MyPlomberieJS">Repo</a> |
 
