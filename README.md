@@ -12,7 +12,7 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 
 ## 📄 Mon CV
 
-- <a target="_blank" href="https://github.com/yassineayoub/yassineayoub/blob/main/CV_Yassine_AYOUB_19052024.pdf" >Voir mon cv  </a>
+- <a target="_blank" href="https://github.com/yassineayoub/yassineayoub/blob/main/CV_AYOUB_YASSINE_23052024_alt%C3%A9rnance.pdf" >Voir mon cv  </a>
  
 ## 🌐 Connectez-vous avec moi
 
@@ -22,7 +22,7 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 ## 📂 Projets récents
 
 ### [Ellem.creer](https://ellemcreer.fr)
-- Création d'un site vitrine pour une boutique d'articles personnalisés.
+- Création d'un site web pour un client créateur d'articles personnalisés.
 - Technologies utilisées : PHP Symfony - TailwindCss - Templating Twig
 - Points traités : Cahier des charges - Modélisation de la base de données (MCD MLD) - Maquetage de l'application - Intégration HTML/CSS - Authentification - Securité - SEO ect..
 
