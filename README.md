@@ -4,11 +4,13 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 
 ## 🚀 Compétences
 
-- **Langages de programmation :** [JavaScript, PHP]
-- **Frameworks :** [React, NextJS, Laravel, Symfony]
-- **Outils et technologies :** [Git, TailwindCSS, MaterialUI, Bootstrap]
-- **Bases de données :** [MySQL]
-- **Autres :** [Agile/Scrum]
+- **Langages de programmation :** JavaScript, PHP
+- **Frameworks :** React, NextJS, Laravel, Symfony
+- **Outils et technologies :** Git, GitHub, TailwindCSS, MaterialUI, Bootstrap, Figma
+- **Bases de données :** MySQL
+- **Autres :** Agile/Scrum
+
+Evidemmment cette liste est non exhaustive et évolutive :D
 
 ## 📄 Mon CV
 
@@ -21,10 +23,10 @@ Développeur passionné, persévérant, qui aime apprendre et résoudre des prob
 
 ## 📂 Projets récents
 
-### [Ellem.creer](https://ellemcreer.fr)
+### [Ellem.creer](https://ellemcreer.fr) 
 - Création d'un site web pour un client créateur d'articles personnalisés.
 - Technologies utilisées : PHP Symfony - TailwindCss - Templating Twig
-- Points traités : Cahier des charges - Modélisation de la base de données (MCD MLD) - Maquetage de l'application - Intégration HTML/CSS - Authentification - Securité - SEO ect..
+- Points traités : Cahier des charges - Modélisation de la base de données (MCD MLD) - Création de Fixtures - Maquetage de l'application - Intégration HTML/CSS - Authentification - Securité - SEO ect..
 
 ### [Musclay](https://musclay.web.app/)
 - Application de musculation qui permet à nos utilisateurs de créer et personnaliser leur propre entrainement de musculation ainsi que de suivre leur progression.
