@@ -14,7 +14,7 @@ Evidemmment cette liste est non exhaustive et évolutive :D
 
 ## 📄 Mon CV
 
-- <a target="_blank" href="https://github.com/yassineayoub/yassineayoub/blob/main/CV_AYOUB_YASSINE_23052024_alt%C3%A9rnance.pdf" >Voir mon cv  </a>
+- <a target="_blank" href="https://github.com/yassineayoub/yassineayoub/blob/main/CV_AYOUB_YASSINE_27052024_alternance.pdf" >Voir mon cv  </a>
  
 ## 🌐 Connectez-vous avec moi
 
